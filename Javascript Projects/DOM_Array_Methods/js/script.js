@@ -1,3 +1,5 @@
+//Grabbing from API and High order array functions (ForEach(), map(), sort(), filter() and reduce()).
+
 const addUserBtn = document.querySelector("#add-user");
 const doubleBtn = document.querySelector("#double");
 const showMillBtn = document.querySelector("#show-millionaires");
